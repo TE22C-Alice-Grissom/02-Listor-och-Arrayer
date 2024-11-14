@@ -1,0 +1,14 @@
+c:\Users\alice.grissom\Prog2\02 Listor och Arrayer\02 Listor och Arrayer\bin\Debug\net8.0\02 Listor och Arrayer.exe
+c:\Users\alice.grissom\Prog2\02 Listor och Arrayer\02 Listor och Arrayer\bin\Debug\net8.0\02 Listor och Arrayer.deps.json
+c:\Users\alice.grissom\Prog2\02 Listor och Arrayer\02 Listor och Arrayer\bin\Debug\net8.0\02 Listor och Arrayer.runtimeconfig.json
+c:\Users\alice.grissom\Prog2\02 Listor och Arrayer\02 Listor och Arrayer\bin\Debug\net8.0\02 Listor och Arrayer.dll
+c:\Users\alice.grissom\Prog2\02 Listor och Arrayer\02 Listor och Arrayer\bin\Debug\net8.0\02 Listor och Arrayer.pdb
+c:\Users\alice.grissom\Prog2\02 Listor och Arrayer\02 Listor och Arrayer\obj\Debug\net8.0\02 Listor och Arrayer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alice.grissom\Prog2\02 Listor och Arrayer\02 Listor och Arrayer\obj\Debug\net8.0\02 Listor och Arrayer.AssemblyInfoInputs.cache
+c:\Users\alice.grissom\Prog2\02 Listor och Arrayer\02 Listor och Arrayer\obj\Debug\net8.0\02 Listor och Arrayer.AssemblyInfo.cs
+c:\Users\alice.grissom\Prog2\02 Listor och Arrayer\02 Listor och Arrayer\obj\Debug\net8.0\02 Listor och Arrayer.csproj.CoreCompileInputs.cache
+c:\Users\alice.grissom\Prog2\02 Listor och Arrayer\02 Listor och Arrayer\obj\Debug\net8.0\02 Listor och Arrayer.dll
+c:\Users\alice.grissom\Prog2\02 Listor och Arrayer\02 Listor och Arrayer\obj\Debug\net8.0\refint\02 Listor och Arrayer.dll
+c:\Users\alice.grissom\Prog2\02 Listor och Arrayer\02 Listor och Arrayer\obj\Debug\net8.0\02 Listor och Arrayer.pdb
+c:\Users\alice.grissom\Prog2\02 Listor och Arrayer\02 Listor och Arrayer\obj\Debug\net8.0\02 Listor och Arrayer.genruntimeconfig.cache
+c:\Users\alice.grissom\Prog2\02 Listor och Arrayer\02 Listor och Arrayer\obj\Debug\net8.0\ref\02 Listor och Arrayer.dll
